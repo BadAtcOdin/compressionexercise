@@ -1,0 +1,33 @@
+# High-throughput JPEG 2000 Imaging-Fabric integration Internship
+
+# Coding challenge
+
+1.  **Download a representative set of uncompressed DICOM images from a
+    free DICOM library (typically 512x512 12bits/16bits monochromatic or
+    8bits RGB images).**
+
+**For each image, extract the PixelData buffer and compress it to the
+formats JPEG, JPG 2000 (jp2) and High Throughput JPEG 2000 (jph). Note
+the compression time, compressed size and quality metrics depending on
+the quality factor used.**
+
+**Compute the statistics by category and quality factor and plot the
+results.**
+
+**What are your observations?**
+
+1.  **Create a web application capable of displaying these images (for
+    12 and 16bit images, you can apply a linear transform and display
+    8bit data).**
+
+2.  **Propose a method to obtain the low-resolution part of a .jph file
+    from a server supporting this feature. How can you decode the
+    partial data to full size image?**
+
+**Use preferably NodeJS for scripting and back-end service, free or demo
+software for jp2/jph conversion and openJPH in the browser to convert
+from/to jph formats.**
+
+**You will submit your work as a git repository with clear instructions
+about the installation setup, a documented code, your input data
+(images), answers and results.**
