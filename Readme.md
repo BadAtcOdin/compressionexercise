@@ -9,7 +9,7 @@ Before running this project, ensure you have the following installed:
 - OpenJPH command-line tools (You'll need to compile it yourself so make sure to install Cmake and VS first) 
 - RadiAnt to view DICOM files 
 - Kakadu demo to view jp2 and jph files
-- Dataset. Used www.cancerimagingarchive.net's Rider Pilot dataset (manifest to download dataset is in root folder)
+- Dataset. Used NBIA Data Retriever, manifest to download dataset is in root folder
 
 # Installation
 
