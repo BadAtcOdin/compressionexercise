@@ -1,0 +1,8 @@
+# TODO List
+
+## High Priority
+- [ ] Fix HTJ2K CRUTIAL: Current windowing technique doesn't seem to work, investigate and implement proper windowing
+- [ ] Implement Web App : create a web app to view images  
+- [ ] investigate openjph for progressive image loading : investigate how to decode partial data if server supports low res HTJ2K  
+
+Last updated: 2025-04-07

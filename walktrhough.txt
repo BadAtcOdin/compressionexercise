@@ -5,3 +5,7 @@ Get other metadata (width height bitsAllocated bitsStored)
 Use Sharp for jpg compression BEWARE: jpg doesn't accept 16bit downsample to 8bit by bitshifting
 
 USe OpenJPEG for jp2 and openjph for jph 
+
+USe Windowing for proper visualisation (CT Scans)
+
+
